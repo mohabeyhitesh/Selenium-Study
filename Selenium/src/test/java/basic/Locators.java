@@ -29,7 +29,7 @@ public class Locators {
 //		driver.findElement(By.xpath("//button[contains(@id,'u_0_5_')]")).click();
 //		driver.findElement(By.xpath("//input[starts-with(@name,'em')]")).sendKeys("hitesh");
 		
-//		Xpath and / or //
+//		Xpath and / or ////
 		
 //		driver.findElement(By.xpath("//input[@id='email' and @name='email']")).sendKeys("hitesh");
 //		driver.findElement(By.xpath("//input[@id='email' or @name='email']")).sendKeys("hitesh");
